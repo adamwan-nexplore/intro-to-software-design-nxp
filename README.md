@@ -2,9 +2,11 @@
 
 Reference related to Javascript
 
-99 Bottles of OOP - https://sandimetz.com/99bottles
+99 Bottles of OOP (JS Version) - https://sandimetz.com/99bottles
 
-Practical Object-Oriented Design in Ruby, 2nd Edition - https://www.poodr.com/
+Programming with Types - https://www.manning.com/books/programming-with-types
+
+Practical Object-Oriented Design in Ruby, 2nd Edition - https://www.poodr.com
 
 There are a lot of topics related to OOP
 
