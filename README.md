@@ -1,6 +1,9 @@
 # oop-nxp
 
+Reference related to Javascript
+
 99 Bottles of OOP - https://sandimetz.com/99bottles
+
 Practical Object-Oriented Design in Ruby, 2nd Edition - https://www.poodr.com/
 
 There are a lot of topics related to OOP
