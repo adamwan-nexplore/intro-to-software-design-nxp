@@ -28,6 +28,8 @@ Videos on OOP
     Object Oriented Programming is not what I thought - Talk by Anjana Vakil - https://www.youtube.com/watch?v=TbP2B1ijWr8
 
     SOLID Object-Oriented Design by Sandi Metz - https://www.youtube.com/watch?v=v-2yFMzxqwU
+    
+    Sandi Metz - Talk Session: Polly Want a Message - https://www.youtube.com/watch?v=YtROlyWWhV0
 
     The Hard Parts of Object Oriented JavaScript - https://frontendmasters.com/courses/object-oriented-js
     JavaScript The Hard Parts: Object Oriented Programming - https://www.youtube.com/watch?v=aAAS9cEuFYI
