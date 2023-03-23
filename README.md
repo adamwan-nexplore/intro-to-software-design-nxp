@@ -25,8 +25,9 @@ There are a lot of topics related to OOP
     Design Patterns: Elements of Reusable Object-Oriented Software - https://www.oreilly.com/library/view/design-patterns-elements/0201633612
 
 Videos on OOP
-Object Oriented Programming is not what I thought - Talk by Anjana Vakil
- - https://www.youtube.com/watch?v=TbP2B1ijWr8
+    Object Oriented Programming is not what I thought - Talk by Anjana Vakil - https://www.youtube.com/watch?v=TbP2B1ijWr8
 
-The hard part of object oriented programming 
-https://and/courses/object-oriented-js/
+    SOLID Object-Oriented Design by Sandi Metz - https://www.youtube.com/watch?v=v-2yFMzxqwU
+
+    The Hard Parts of Object Oriented JavaScript - https://frontendmasters.com/courses/object-oriented-js
+    JavaScript The Hard Parts: Object Oriented Programming - https://www.youtube.com/watch?v=aAAS9cEuFYI
