@@ -16,7 +16,7 @@ There are a lot of topics related to OOP
 
     Creating Software with Modern Diagrapmming Techniques - https://pragprog.com/titles/apdiag/creating-software-with-modern-diagramming-techniques
 
-- Design Pattersn
+- Design Patterns
 
     Head First Design Patterns, 2nd Edition - https://www.oreilly.com/library/view/head-first-design/9781492077992
 
