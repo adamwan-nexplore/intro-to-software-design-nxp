@@ -1,15 +1,21 @@
 # oop-nxp
 
-Purpose of softwar `design`.
+Purpose of software `design`.
 
 No design = procedural programming (just a series of programming statements to command computer to execute) -> hard to understand
+
 
 => a bit design (group the statements into functions) -> hard to understand
 
 => group the functions into namespace (class)
 
+Inflection point
+beyond certain complexity the design is uselss and wont pay off.
 
-inflection point
+https://martinfowler.com/bliki/DesignStaminaHypothesis.html
+
+
+
 
 
 Reference related to Javascript
