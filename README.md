@@ -2,6 +2,8 @@
 
 Reference related to Javascript
 
+Programming Typescript - https://www.oreilly.com/library/view/programming-typescript
+
 Programming with Types - https://www.manning.com/books/programming-with-types
 
 99 Bottles of OOP (JS Version) - https://sandimetz.com/99bottles
