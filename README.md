@@ -21,6 +21,8 @@ There are a lot of topics related to OOP
     Head First Design Patterns, 2nd Edition - https://www.oreilly.com/library/view/head-first-design/9781492077992
 
     Refactoring Guru (Design Patterns) - https://refactoring.guru/design-patterns
+    
+    Design Patterns: Elements of Reusable Object-Oriented Software - https://www.oreilly.com/library/view/design-patterns-elements/0201633612
 
 Videos on OOP
 Object Oriented Programming is not what I thought - Talk by Anjana Vakil
