@@ -9,6 +9,16 @@ No design = procedural programming (just a series of programming statements to c
 
 => group the functions into namespace (class)
 
+＝> change of features
+
+=> how it impact the interfaces
+
+=> how it impact the way to verify it
+
+Object Oriented Programming is one of the ways to rearrange the programs so that we can build an easy-to-change software that fits what we want with confidence.
+
+basically -> introduce some places to change, those parts will be restricted by class signatures and 
+
 Inflection point
 beyond certain complexity the design is uselss and wont pay off.
 
