@@ -1,5 +1,17 @@
 # oop-nxp
 
+Purpose of softwar `design`.
+
+No design = procedural programming (just a series of programming statements to command computer to execute) -> hard to understand
+
+=> a bit design (group the statements into functions) -> hard to understand
+
+=> group the functions into namespace (class)
+
+
+inflection point
+
+
 Reference related to Javascript
 
 Programming Typescript - https://www.oreilly.com/library/view/programming-typescript/9781492037644
