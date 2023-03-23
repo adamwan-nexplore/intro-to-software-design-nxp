@@ -2,7 +2,7 @@
 
 Reference related to Javascript
 
-Programming Typescript - https://www.oreilly.com/library/view/programming-typescript
+Programming Typescript - https://www.oreilly.com/library/view/programming-typescript/9781492037644
 
 Programming with Types - https://www.manning.com/books/programming-with-types
 
