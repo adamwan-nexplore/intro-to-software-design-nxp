@@ -22,6 +22,9 @@ There are a lot of topics related to OOP
 
     Refactoring Guru (Design Patterns) - https://refactoring.guru/design-patterns
 
-One introductory video on OOP
+Videos on OOP
 Object Oriented Programming is not what I thought - Talk by Anjana Vakil
  - https://www.youtube.com/watch?v=TbP2B1ijWr8
+
+The hard part of object oriented programming 
+https://and/courses/object-oriented-js/
