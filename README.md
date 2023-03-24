@@ -30,11 +30,14 @@ https://martinfowler.com/bliki/DesignStaminaHypothesis.html
 
 Reference related to Javascript
 
+Learning JavaScript Design Patterns, 2nd Edition - https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1098139879
+(Or https://www.patterns.dev/posts)
+
 Programming Typescript - https://www.oreilly.com/library/view/programming-typescript/9781492037644
 
 Programming with Types - https://www.manning.com/books/programming-with-types
 
-99 Bottles of OOP (JS Version) - https://sandimetz.com/99bottles
+99 Bottles of OOP (JS Version), 2nd Edition  - https://sandimetz.com/99bottles
 
 Practical Object-Oriented Design, An Agile Primer Using Ruby, 2nd Edition - https://www.poodr.com
 
