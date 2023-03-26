@@ -1,5 +1,9 @@
 # oop-nxp
 
+What is software design?
+What OOP can help?
+What is OOP?
+
 Purpose of software `design`.
 
 No design = procedural programming (just a series of programming statements to command computer to execute) -> hard to understand
