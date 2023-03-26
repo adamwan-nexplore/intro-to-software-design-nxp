@@ -1,7 +1,9 @@
 # oop-nxp
 
 What is software design?
-What OOP can help?
+
+What OOP can help writing a better system?
+
 What is OOP?
 
 Purpose of software `design`.
