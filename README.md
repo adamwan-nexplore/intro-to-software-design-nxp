@@ -4,10 +4,6 @@
 
 What is software design?
 
-What OOP can help writing a better system?
-
-What is OOP?
-
 Purpose of software `design`.
 
 What do we expect from Object Oriented Programming?
