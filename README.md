@@ -30,13 +30,17 @@ basically -> introduce some places to change, those parts will be restricted by 
 Inflection point
 beyond certain complexity the design is uselss and wont pay off.
 
-https://martinfowler.com/bliki/DesignStaminaHypothesis.html
+
 
 
 
 
 
 ## Reference
+
+- Softare Design
+
+    (Article) Design Stamina Hypothesis by Martin Fowler - https://martinfowler.com/bliki/DesignStaminaHypothesis.html
 
 - JavaScript / Typescript
 
