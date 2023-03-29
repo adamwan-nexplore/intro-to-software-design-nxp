@@ -37,12 +37,12 @@ Four Pillars of OOP
 - Inheritance
 - Polymorphism
 
-Five Priniciples of Good OOP
-S - Single-responsiblity Principle
-O - Open-closed Principle
-L - Liskov Substitution Principle
-I - Interface Segregation Principle
-D - Dependency Inversion Principle
+Five Priniciples of Good OOP (SOLID
+- Single-responsiblity Principle
+- Open-closed Principle
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle
 
 
 Design Patterns
