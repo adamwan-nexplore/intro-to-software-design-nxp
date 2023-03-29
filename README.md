@@ -10,9 +10,12 @@ What is OOP?
 
 Purpose of software `design`.
 
-Object Oriented Programming concerns
+What do we expect from Object Oriented Programming?
+
 -> A new requirement comes > change little / no change of system
+
 -> The change of requirement is proportional to the amount of change of the system
+
 -> Facitiliate to add new codes instead of modifying the existing codes as much as possible
 
 
