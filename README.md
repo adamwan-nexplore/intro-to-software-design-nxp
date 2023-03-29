@@ -4,6 +4,12 @@
 
 What is software design?
 
+Whag is Object Oriented Programming?
+
+- Everything is a class
+- Everytime assigns values (attributes) to a class to create an object 
+- When creating / reading (heavily) / updating / deleting external sources, we will invoke the functions (behaviours) of the object
+
 Purpose of software `design`.
 
 What do we expect from Object Oriented Programming?
