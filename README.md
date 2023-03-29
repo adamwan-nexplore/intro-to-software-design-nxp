@@ -58,6 +58,7 @@ beyond certain complexity the design is uselss and wont pay off.
     (Video) Talk Session: Polly Want a Message by Sandi Metz - https://www.youtube.com/watch?v=YtROlyWWhV0
 
     (Book) Clean Code - https://www.oreilly.com/library/view/clean-code-a/9780136083238
+    Also cClean Coder, Clean Architecture, Clean Agile, Clean Craftsmanship
 
     (Book) 99 Bottles of OOP (JS Version), 2nd Edition  - https://sandimetz.com/99bottles
 
