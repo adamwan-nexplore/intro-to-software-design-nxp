@@ -25,7 +25,7 @@ Four Pillars of OOP
 - Inheritance
 - Polymorphism
 
-Five Priniciples of Good OOP (SOLID
+Five Priniciples of Good OOP (SOLID)
 - Single-responsiblity Principle
 - Open-closed Principle
 - Liskov Substitution Principle
