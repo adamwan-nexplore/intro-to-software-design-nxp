@@ -44,27 +44,32 @@ beyond certain complexity the design is uselss and wont pay off.
 
 - JavaScript / Typescript
 
-    (Video) Object Oriented Programming is not what I thought - Talk by Anjana Vakil - https://www.youtube.com/watch?v=TbP2B1ijWr8
-    
-    (Video) SOLID Object-Oriented Design by Sandi Metz - https://www.youtube.com/watch?v=v-2yFMzxqwU
-    
-    (Video) Talk Session: Polly Want a Message by Sandi Metz - https://www.youtube.com/watch?v=YtROlyWWhV0
-    
     (Video) JavaScript The Hard Parts: Object Oriented Programming by Will Sentance - https://www.youtube.com/watch?v=aAAS9cEuFYI
-
-    (Website) https://www.patterns.dev 
 
     (Book) Programming Typescript - https://www.oreilly.com/library/view/programming-typescript/9781492037644
 
     (Book) Programming with Types - https://www.manning.com/books/programming-with-types
 
+- Object Oriented Programming
+    (Video) Object Oriented Programming is not what I thought - Talk by Anjana Vakil - https://www.youtube.com/watch?v=TbP2B1ijWr8
+    
+    (Video) SOLID Object-Oriented Design by Sandi Metz - https://www.youtube.com/watch?v=v-2yFMzxqwU
+    
+    (Video) Talk Session: Polly Want a Message by Sandi Metz - https://www.youtube.com/watch?v=YtROlyWWhV0
+
+    (Book) Clean Code - https://www.oreilly.com/library/view/clean-code-a/9780136083238
+
     (Book) 99 Bottles of OOP (JS Version), 2nd Edition  - https://sandimetz.com/99bottles
 
     (Book) Practical Object-Oriented Design, An Agile Primer Using Ruby, 2nd Edition - https://www.poodr.com
 
+    (Website) https://www.patterns.dev 
+
 - UML
 
     (Book) Creating Software with Modern Diagrapmming Techniques - https://pragprog.com/titles/apdiag/creating-software-with-modern-diagramming-techniques
+    
+    (Book) Head First Object-Oriented Analysis and Design - https://www.oreilly.com/library/view/head-first-object-oriented/0596008678
 
 - Design Patterns
 
