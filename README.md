@@ -10,6 +10,7 @@ What is OOP?
 
 Purpose of software `design`.
 
+
 No design = procedural programming (just a series of programming statements to command computer to execute) -> hard to understand
 
 
@@ -30,7 +31,21 @@ basically -> introduce some places to change, those parts will be restricted by 
 Inflection point
 beyond certain complexity the design is uselss and wont pay off.
 
+Four Pillars of OOP
+- Abstraction
+- Encapsulation
+- Inheritance
+- Polymorphism
 
+Five Priniciples of Good OOP
+S - Single-responsiblity Principle
+O - Open-closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
+
+
+Design Patterns
 
 
 
