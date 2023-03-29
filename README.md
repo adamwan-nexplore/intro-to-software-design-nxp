@@ -34,39 +34,39 @@ https://martinfowler.com/bliki/DesignStaminaHypothesis.html
 
 
 
-Reference related to Javascript
+## Reference
 
-Learning JavaScript Design Patterns, 2nd Edition - https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1098139879
-(Or https://www.patterns.dev/posts)
+- JavaScript / Typescript
 
-Programming Typescript - https://www.oreilly.com/library/view/programming-typescript/9781492037644
+    (Video) Object Oriented Programming is not what I thought - Talk by Anjana Vakil - https://www.youtube.com/watch?v=TbP2B1ijWr8
+    
+    (Video) SOLID Object-Oriented Design by Sandi Metz - https://www.youtube.com/watch?v=v-2yFMzxqwU
+    
+    (Video) Talk Session: Polly Want a Message by Sandi Metz - https://www.youtube.com/watch?v=YtROlyWWhV0
+    
+    (Video) JavaScript The Hard Parts: Object Oriented Programming by Will Sentance - https://www.youtube.com/watch?v=aAAS9cEuFYI
 
-Programming with Types - https://www.manning.com/books/programming-with-types
+    (Website) https://www.patterns.dev 
 
-99 Bottles of OOP (JS Version), 2nd Edition  - https://sandimetz.com/99bottles
+    (Book) Programming Typescript - https://www.oreilly.com/library/view/programming-typescript/9781492037644
 
-Practical Object-Oriented Design, An Agile Primer Using Ruby, 2nd Edition - https://www.poodr.com
+    (Book) Programming with Types - https://www.manning.com/books/programming-with-types
 
-There are a lot of topics related to OOP
+    (Book) 99 Bottles of OOP (JS Version), 2nd Edition  - https://sandimetz.com/99bottles
+
+    (Book) Practical Object-Oriented Design, An Agile Primer Using Ruby, 2nd Edition - https://www.poodr.com
 
 - UML
 
-    Creating Software with Modern Diagrapmming Techniques - https://pragprog.com/titles/apdiag/creating-software-with-modern-diagramming-techniques
+    (Book) Creating Software with Modern Diagrapmming Techniques - https://pragprog.com/titles/apdiag/creating-software-with-modern-diagramming-techniques
 
 - Design Patterns
 
-    Head First Design Patterns, 2nd Edition - https://www.oreilly.com/library/view/head-first-design/9781492077992
+    (Book) Learning JavaScript Design Patterns, 2nd Edition - https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1098139879
 
-    Refactoring Guru (Design Patterns) - https://refactoring.guru/design-patterns
-    
-    Design Patterns: Elements of Reusable Object-Oriented Software - https://www.oreilly.com/library/view/design-patterns-elements/0201633612
+    (Book) Head First Design Patterns, 2nd Edition - https://www.oreilly.com/library/view/head-first-design/9781492077992
 
-Videos on OOP
-    Object Oriented Programming is not what I thought - Talk by Anjana Vakil - https://www.youtube.com/watch?v=TbP2B1ijWr8
+    (Book) Design Patterns: Elements of Reusable Object-Oriented Software - https://www.oreilly.com/library/view/design-patterns-elements/0201633612
 
-    SOLID Object-Oriented Design by Sandi Metz - https://www.youtube.com/watch?v=v-2yFMzxqwU
-    
-    Sandi Metz - Talk Session: Polly Want a Message - https://www.youtube.com/watch?v=YtROlyWWhV0
+    (Website) Refactoring Guru (Design Patterns) - https://refactoring.guru/design-patterns
 
-    The Hard Parts of Object Oriented JavaScript - https://frontendmasters.com/courses/object-oriented-js
-    JavaScript The Hard Parts: Object Oriented Programming - https://www.youtube.com/watch?v=aAAS9cEuFYI
