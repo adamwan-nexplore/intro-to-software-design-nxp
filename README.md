@@ -1,4 +1,4 @@
-# oop-nxp
+# software-design-and-oop-nxp
 
 -> Software Design -> OOP -> Design Patterns
 
