@@ -64,7 +64,7 @@ Design Patterns
 
     (Book) Clean Code - https://www.oreilly.com/library/view/clean-code-a/9780136083238
     
-    Also cClean Coder, Clean Architecture, Clean Agile, Clean Craftsmanship
+    Also Clean Coder, Clean Architecture, Clean Agile, Clean Craftsmanship
 
     (Book) 99 Bottles of OOP (JS Version), 2nd Edition  - https://sandimetz.com/99bottles
 
@@ -72,7 +72,7 @@ Design Patterns
 
     (Website) https://www.patterns.dev 
 
-- UML
+- UML & C4
 
     (Book) Creating Software with Modern Diagrapmming Techniques - https://pragprog.com/titles/apdiag/creating-software-with-modern-diagramming-techniques
     
