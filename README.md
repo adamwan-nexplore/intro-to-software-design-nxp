@@ -43,7 +43,7 @@ Design Patterns
 
 ## Reference
 
-- Softare Design
+- Software Design
 
     (Article) Design Stamina Hypothesis by Martin Fowler - https://martinfowler.com/bliki/DesignStaminaHypothesis.html
 
