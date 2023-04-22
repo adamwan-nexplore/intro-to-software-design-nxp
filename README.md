@@ -6,6 +6,7 @@ What is software design?
 
 What is Object Oriented Programming?
 
+(Visually)
 - Everything is a class
 - Everytime assigns values (attributes) to a class to create an object 
 - When creating / reading (heavily) / updating / deleting external sources, we will invoke the functions (behaviours) of the object
