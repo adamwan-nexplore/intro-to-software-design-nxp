@@ -4,7 +4,7 @@
 
 What is software design?
 
-Whag is Object Oriented Programming?
+What is Object Oriented Programming?
 
 - Everything is a class
 - Everytime assigns values (attributes) to a class to create an object 
