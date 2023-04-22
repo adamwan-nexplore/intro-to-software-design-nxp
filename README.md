@@ -1,4 +1,4 @@
-# software-design-and-oop-nxp
+# Introduction to Software Design, Object Oriented Programming and Design Patterns
 
 -> Software Design -> OOP -> Design Patterns
 
